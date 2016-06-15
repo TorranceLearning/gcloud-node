@@ -103,7 +103,7 @@
     "gcs-resumable-upload": "^0.7.1",
     "google-auto-auth": "^0.2.4",
     "google-proto-files": "^0.2.1",
-    "grpc": "^0.14.1",
+
     "hash-stream-validation": "^0.2.1",
     "is": "^3.0.1",
     "lodash.flatten": "^4.2.0",
